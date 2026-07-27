@@ -5,6 +5,10 @@ Welcome to the **Food Analysis Dashboard**! This Power BI project is designed to
 
 The primary file in this repository is a Power BI Template (`.pbit`). Unlike a standard `.pbix` file, this template retains the complete structural foundation of the project (data models, layouts, DAX measures, and themes) while remaining lightweight, as it does not store the underlying imported data.
 
+## Dashboard Preview
+Here is a look at the visual insights and metrics provided by the dashboard:
+![Food Delivery Analysis](FoodDeliveryAnalysisDashboard.png)
+
 ## Repository Contents
 The `.pbit` file acts as a compressed package that includes all the necessary configurations to rebuild the dashboard. Its internal structure includes:
 * **DataModelSchema:** The relational structure and logic mapping for the dashboard's data.
